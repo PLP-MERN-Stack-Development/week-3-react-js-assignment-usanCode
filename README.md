@@ -69,3 +69,28 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Vite Documentation](https://vitejs.dev/guide/)
 - [React Router Documentation](https://reactrouter.com/) 
+
+## To meet the assignment's tasks
+
+I have :
+
+ 
+### 1. Clone the Repository
+
+In Git Bash: git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-usanCode.git
+cd week-3-react-js-assignment-usanCode
+
+
+### 2. Install Dependencies
+
+### 3. Create components files for each component
+
+I have updated components files that were created before and created new ones . Those files were added in  the `./src/components` folder.. I have updated the App.jsx file according to new changes added in the project.
+
+### 4. Set Up .gitignore
+
+Create a `.gitignore` file in the project root and add the following lines to prevent unnecessary files from being tracked by Git:
+
+
+
+
